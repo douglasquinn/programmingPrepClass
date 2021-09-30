@@ -1,3 +1,5 @@
+# Python code for programming class
+
 import pandas as pd
 
 excelFile = pd.ExcelFile('/Users/douglasquinn/Desktop/nhl_skaterstats.xlsx')
